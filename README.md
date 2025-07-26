@@ -1,5 +1,4 @@
-# 💫 About Me:
-Web Developer !
+#Hey hi👋, I'm Avinash, a Web Developer !
 
 
 ## 🌐 Socials:
