@@ -1,4 +1,4 @@
-#Hey hi👋, I'm Avinash, a Web Developer !
+#Hey hi👋, I'm Avinash, a Full Stack Web Developer !
 
 
 ## 🌐 Socials:
